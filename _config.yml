@@ -20,7 +20,7 @@ repository               : "poem2018/poem2018.github.io"
 # Site Author - sidebar 信息
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "myprofile.png"
   name             : "Ruike Zhu"
   pronouns         :  # e.g. "she/her"
   bio              : "Ph.D. student in Computer Science at UIUC. I work on diffusion and flow-matching, large language models."
