@@ -14,8 +14,8 @@ title_separator          : "-"
 name                     : &name "Ruike Zhu"
 description              : &description "Ph.D. student at UIUC working on generative modeling, diffusion/flow matching, LLMs, and NLP."
 url                      : "https://poem2018.github.io"  # 如果以后改成 用户名.github.io，改成 "https://<你的用户名>.github.io"
-baseurl                  : "/ruikezzz.github.io"         # 如果以后是用户主页站点，就改成 "" 
-repository               : "poem2018/ruikezzz.github.io"
+baseurl                  : ""         # 如果以后是用户主页站点，就改成 "" 
+repository               : "poem2018/poem2018.github.io"
 
 # Site Author - sidebar 信息
 author:
