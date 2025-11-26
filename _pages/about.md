@@ -7,13 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-I am a Computer Science Ph.D. candidate at the University of Illinois at Urbana-Champaign (UIUC), advised by Prof. Arindam Banerjee. I also obtained my M.S. in Computer Science from UIUC and a B.S. in Computer Engineering from the ZJU-UIUC Institute.
+I am a Computer Science Ph.D. candidate at the University of Illinois at Urbana-Champaign (UIUC), advised by Prof. [Arindam Banerjee](https://arindam.cs.illinois.edu/index.html). I also obtained my M.S. in Computer Science from UIUC and a B.S. in Computer Engineering from the ZJU-UIUC Institute.
 
 My research interests lie broadly in generative AI, with a focus on diffusion and flow-matching models for fast, high-fidelity text-to-image generation and data-efficient image super-resolution.
 
 I am also interested in large language models and retrieval-augmented generation (RAG). Recently, as a Machine Learning Research Intern at GE HealthCare, I worked on model-agnostic frameworks for temporal EHR modeling and RAG-style agents to improve downstream prediction performance.
 
-Here is my CV.
 
 # Publications
 
