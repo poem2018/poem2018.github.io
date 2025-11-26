@@ -23,7 +23,7 @@ author:
   avatar           : "profile.png"
   name             : "Ruike Zhu"
   pronouns         :  # e.g. "she/her"
-  bio              : "Ph.D. student in Computer Science at UIUC. I work on diffusion and flow-matching, large language models, and NLP, with applications in medical imaging and AI for science."
+  bio              : "Ph.D. student in Computer Science at UIUC. I work on diffusion and flow-matching, large language models."
   location         : "Urbana, IL, USA"
   employer         : "UIUC"
   uri              : 
