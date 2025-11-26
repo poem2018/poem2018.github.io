@@ -1,34 +1,30 @@
-# Academic Pages
 # About Me
 
-I am a Computer Science Ph.D. candidate at the University of Illinois at Urbana-Champaign (UIUC), advised by Prof. Arindam Banerjee. I also obtained my M.S. in Computer Science from UIUC, and a B.S. in Computer Engineering from the ZJU-UIUC Institute.
+I am a Computer Science Ph.D. candidate at the University of Illinois at Urbana-Champaign (UIUC), advised by Prof. Arindam Banerjee. I also obtained my M.S. in Computer Science from UIUC and a B.S. in Computer Engineering from the ZJU-UIUC Institute.
 
- :contentReference[oaicite:0]{index=0}
+My research interests lie broadly in generative AI, with a focus on diffusion and flow-matching models for fast, high-fidelity text-to-image generation and data-efficient image super-resolution.
 
-My research interests lie broadly in generative AI, with a focus on diffusion and flow-matching models for fast, high-fidelity text-to-image generation and data-efficient image super-resolution. :contentReference[oaicite:1]{index=1}
-
-I am also interested in large language models and retrieval-augmented generation (RAG). Recently, as a Machine Learning Research Intern at GE Healthcare, I worked on model-agnostic frameworks for temporal EHR modeling and RAG-style agents to improve downstream prediction performance. :contentReference[oaicite:2]{index=2} 
+I am also interested in large language models and retrieval-augmented generation (RAG). Recently, as a Machine Learning Research Intern at GE HealthCare, I worked on model-agnostic frameworks for temporal EHR modeling and RAG-style agents to improve downstream prediction performance.
 
 Here is my CV.
 
-# Publication
+# Publications
 
-- **MSP-SR: Multi-Stage Probabilistic Generative Super Resolution with Scarce High-Resolution Data**,  
+- **MSP-SR: Multi-Stage Probabilistic Generative Super-Resolution with Scarce High-Resolution Data**,  
   *Ruike Zhu*, Michael C. Weston, Arindam Banerjee, UAI 2025.  
-  We propose MSP-SR, a three-stage generative super-resolution framework that transfers knowledge from natural images to the medical domain using ControlNet-style conditioning. Under few-shot settings, MSP-SR significantly improves PSNR and LPIPS on multiple medical datasets, including a 32.2% PSNR gain and 46.0% lower LPIPS on OASIS. :contentReference[oaicite:3]{index=3}  
+  We propose MSP-SR, a three-stage generative super-resolution framework that transfers knowledge from natural images to the medical domain using ControlNet-style conditioning. Under few-shot settings, MSP-SR significantly improves PSNR and LPIPS on multiple medical datasets, including a 32.2% PSNR gain and 46.0% lower LPIPS on OASIS.
 
 - **Beyond Parameters: Exploring Virtual Logic Depth for Scaling Laws**,  
   *Ruike Zhu*, submitted to ICLR 2026.  
-  This work systematically studies parameter-reuse patterns in large language models, introducing a cyclic repetition scheme that substantially improves reasoning performance, with up to 52% accuracy gains on reasoning tasks and more than 100% improvement on the AIME benchmark for fixed parameter budgets. :contentReference[oaicite:4]{index=4}  
+  This work systematically studies parameter-reuse patterns in large language models, introducing a cyclic repetition scheme that substantially improves reasoning performance, with up to 52% accuracy gains on reasoning tasks and more than 100% improvement on the AIME benchmark for fixed parameter budgets.
 
 - **Generative Graph Dictionary Learning**,  
-  Zhenyu Zeng, *Ruike Zhu*, Yizhou Xia, Hao Zeng, Hanghang Tong, ICML 2023.  
-  We develop a generative framework for learning graph dictionaries that capture latent structural patterns, enabling more expressive and compact representations for downstream graph learning tasks. :contentReference[oaicite:5]{index=5}  
+  Zhiceng Zeng, *Ruike Zhu*, Yizhou Xia, Hao Zeng, Hanghang Tong, ICML 2023.  
+  We developed a generative framework for learning graph dictionaries that capture latent structural patterns, enabling more expressive and compact representations for downstream graph learning tasks.
 
 - **Weakly Supervised Two-Stage Training Scheme for Deep Video Fight Detection Model**,  
   *Ruike Zhu*, Zixu Qi, Zhenyang Fu, Wei Chai, Volodymyr Kindratenko, ICTAI 2022.  
-  We design a weakly supervised two-stage pipeline for violence detection in videos, combining coarse video-level supervision with refined frame-level modeling to improve robustness under limited labels. :contentReference[oaicite:6]{index=6}  
-
+  We designed a weakly supervised two-stage pipeline for violence detection in videos, combining coarse video-level supervision with refined frame-level modeling to improve robustness under limited labels.
 
 ## Experience
 
@@ -38,16 +34,3 @@ Here is my CV.
 - Developed a model-agnostic framework to predict patient mortality from temporal EHR sequences and historical ICD codes on a highly imbalanced dataset.
 - Designed an AI-driven agent to optimize a retrieval-augmented generation (RAG) pipeline that retrieves similar patient cases in addition to external medical knowledge.
 - Applied reinforcement learning to refine query generation with a custom reward based on prediction accuracy, achieving a 34% AUROC improvement over baseline models.
-
-
----
-<div align="center">
-    
-![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
-[![GitHub contributors](https://img.shields.io/github/contributors/academicpages/academicpages.github.io.svg)](https://github.com/academicpages/academicpages.github.io/graphs/contributors)
-[![GitHub release](https://img.shields.io/github/v/release/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/releases/latest)
-[![GitHub license](https://img.shields.io/github/license/academicpages/academicpages.github.io?color=blue)](https://github.com/academicpages/academicpages.github.io/blob/master/LICENSE)
-
-[![GitHub stars](https://img.shields.io/github/stars/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io)
-[![GitHub forks](https://img.shields.io/github/forks/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/fork)
-</div>
