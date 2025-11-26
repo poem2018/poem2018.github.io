@@ -8,5 +8,6 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-- title: "CV"
+  - title: "CV"
     url: /files/ruike_resume_intern.pdf
+
